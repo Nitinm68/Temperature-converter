@@ -1,0 +1,18 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  h1 {
+    color: #007bff;
+  }
+  
+  .card {
+    border-radius: 10px;
+  }
+  
+  #result {
+    color: #28a745;
+    font-weight: bold;
+  }
+  
